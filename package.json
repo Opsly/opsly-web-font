@@ -1,0 +1,10 @@
+{
+  "name": "opsly-web-font",
+  "version": "1.0.0",
+  "description": "Collection of web icons for Opsly Cloud.",
+  "main": "css/opsly.css",
+  "repository": "git@github.com:obiloud/opsly-web-font.git",
+  "author": "Bojan Ristic <e.tachka@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
