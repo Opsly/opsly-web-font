@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'fontello';
-  src: url('../font/fontello.eot?10568089');
-  src: url('../font/fontello.eot?10568089#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff2?10568089') format('woff2'),
-       url('../font/fontello.woff?10568089') format('woff'),
-       url('../font/fontello.ttf?10568089') format('truetype'),
-       url('../font/fontello.svg?10568089#fontello') format('svg');
+  font-family: 'opsly';
+  src: url('../font/opsly.eot?63431836');
+  src: url('../font/opsly.eot?63431836#iefix') format('embedded-opentype'),
+       url('../font/opsly.woff2?63431836') format('woff2'),
+       url('../font/opsly.woff?63431836') format('woff'),
+       url('../font/opsly.ttf?63431836') format('truetype'),
+       url('../font/opsly.svg?63431836#opsly') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,14 +14,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'fontello';
-    src: url('../font/fontello.svg?10568089#fontello') format('svg');
+    font-family: 'opsly';
+    src: url('../font/opsly.svg?63431836#opsly') format('svg');
   }
 }
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "fontello";
+  font-family: "opsly";
   font-style: normal;
   font-weight: normal;
   speak: never;
