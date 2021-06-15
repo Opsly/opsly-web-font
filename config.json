@@ -1123,6 +1123,12 @@
       "search": [
         "bin"
       ]
+    },
+    {
+      "uid": "21b42d3c3e6be44c3cc3d73042faa216",
+      "css": "sliders",
+      "code": 61918,
+      "src": "fontawesome"
     }
   ]
 }
