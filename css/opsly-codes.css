@@ -89,6 +89,9 @@
 .icon-x-ray:before { content: '\e857'; } /* '' */
 .icon-rack:before { content: '\e858'; } /* '' */
 .icon-block:before { content: '\e859'; } /* '' */
+.icon-opsly-info-filled:before { content: '\e85a'; } /* '' */
+.icon-box-outline:before { content: '\e85b'; } /* '' */
+.icon-box-filled:before { content: '\e85c'; } /* '' */
 .icon-check-empty:before { content: '\f096'; } /* '' */
 .icon-bookmark-empty:before { content: '\f097'; } /* '' */
 .icon-docs:before { content: '\f0c5'; } /* '' */

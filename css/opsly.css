@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'opsly';
-  src: url('../font/opsly.eot?43683300');
-  src: url('../font/opsly.eot?43683300#iefix') format('embedded-opentype'),
-       url('../font/opsly.woff2?43683300') format('woff2'),
-       url('../font/opsly.woff?43683300') format('woff'),
-       url('../font/opsly.ttf?43683300') format('truetype'),
-       url('../font/opsly.svg?43683300#opsly') format('svg');
+  src: url('../font/opsly.eot?84302145');
+  src: url('../font/opsly.eot?84302145#iefix') format('embedded-opentype'),
+       url('../font/opsly.woff2?84302145') format('woff2'),
+       url('../font/opsly.woff?84302145') format('woff'),
+       url('../font/opsly.ttf?84302145') format('truetype'),
+       url('../font/opsly.svg?84302145#opsly') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,11 +15,11 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'opsly';
-    src: url('../font/opsly.svg?43683300#opsly') format('svg');
+    src: url('../font/opsly.svg?84302145#opsly') format('svg');
   }
 }
 */
-[class^="icon-"]:before, [class*="icon-"]:before {
+[class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "opsly";
   font-style: normal;
   font-weight: normal;
@@ -144,6 +144,9 @@
 .icon-x-ray:before { content: '\e857'; } /* '' */
 .icon-rack:before { content: '\e858'; } /* '' */
 .icon-block:before { content: '\e859'; } /* '' */
+.icon-opsly-info-filled:before { content: '\e85a'; } /* '' */
+.icon-box-outline:before { content: '\e85b'; } /* '' */
+.icon-box-filled:before { content: '\e85c'; } /* '' */
 .icon-check-empty:before { content: '\f096'; } /* '' */
 .icon-bookmark-empty:before { content: '\f097'; } /* '' */
 .icon-docs:before { content: '\f0c5'; } /* '' */
