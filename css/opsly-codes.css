@@ -74,7 +74,7 @@
 .icon-plus-outline:before { content: '\e848'; } /* '' */
 .icon-minus-1:before { content: '\e849'; } /* '' */
 .icon-balance:before { content: '\e84a'; } /* '' */
-.icon-oplsy-cloud:before { content: '\e84b'; } /* '' */
+.icon-opsly-cloud:before { content: '\e84b'; } /* '' */
 .icon-cancel:before { content: '\e84c'; } /* '' */
 .icon-cancel-1:before { content: '\e84d'; } /* '' */
 .icon-bell:before { content: '\e84e'; } /* '' */
@@ -92,6 +92,9 @@
 .icon-opsly-info-filled:before { content: '\e85a'; } /* '' */
 .icon-box-outline:before { content: '\e85b'; } /* '' */
 .icon-box-filled:before { content: '\e85c'; } /* '' */
+.icon-move-1:before { content: '\e85d'; } /* '' */
+.icon-move-2:before { content: '\e85e'; } /* '' */
+.icon-move:before { content: '\f047'; } /* '' */
 .icon-check-empty:before { content: '\f096'; } /* '' */
 .icon-bookmark-empty:before { content: '\f097'; } /* '' */
 .icon-docs:before { content: '\f0c5'; } /* '' */
