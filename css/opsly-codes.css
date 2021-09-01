@@ -99,6 +99,10 @@
 .icon-diagram:before { content: '\e861'; } /* '' */
 .icon-diagram-chart:before { content: '\e862'; } /* '' */
 .icon-clock:before { content: '\e863'; } /* '' */
+.icon-download:before { content: '\e864'; } /* '' */
+.icon-clock-1:before { content: '\e865'; } /* '' */
+.icon-rocket:before { content: '\e866'; } /* '' */
+.icon-bomb:before { content: '\e867'; } /* '' */
 .icon-move:before { content: '\f047'; } /* '' */
 .icon-check-empty:before { content: '\f096'; } /* '' */
 .icon-bookmark-empty:before { content: '\f097'; } /* '' */
