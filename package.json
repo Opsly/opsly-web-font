@@ -1,6 +1,6 @@
 {
   "name": "opsly-web-font",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Collection of web icons for Opsly Cloud.",
   "main": "css/opsly.css",
   "repository": "git@github.com:Opsly/opsly-web-font.git",
