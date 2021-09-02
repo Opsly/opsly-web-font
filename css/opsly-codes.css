@@ -103,6 +103,16 @@
 .icon-clock-1:before { content: '\e865'; } /* '' */
 .icon-rocket:before { content: '\e866'; } /* '' */
 .icon-bomb:before { content: '\e867'; } /* '' */
+.icon-fire:before { content: '\e868'; } /* '' */
+.icon-keys:before { content: '\e869'; } /* '' */
+.icon-identity:before { content: '\e86a'; } /* '' */
+.icon-gateways:before { content: '\e86b'; } /* '' */
+.icon-dns:before { content: '\e86c'; } /* '' */
+.icon-network:before { content: '\e86d'; } /* '' */
+.icon-sql-2:before { content: '\e86e'; } /* '' */
+.icon-balancer:before { content: '\e86f'; } /* '' */
+.icon-auto-scaling:before { content: '\e870'; } /* '' */
+.icon-aws-balancer-2:before { content: '\e871'; } /* '' */
 .icon-move:before { content: '\f047'; } /* '' */
 .icon-check-empty:before { content: '\f096'; } /* '' */
 .icon-bookmark-empty:before { content: '\f097'; } /* '' */
