@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'opsly';
-  src: url('../font/opsly.eot?15039333');
-  src: url('../font/opsly.eot?15039333#iefix') format('embedded-opentype'),
-       url('../font/opsly.woff2?15039333') format('woff2'),
-       url('../font/opsly.woff?15039333') format('woff'),
-       url('../font/opsly.ttf?15039333') format('truetype'),
-       url('../font/opsly.svg?15039333#opsly') format('svg');
+  src: url('../font/opsly.eot?38577327');
+  src: url('../font/opsly.eot?38577327#iefix') format('embedded-opentype'),
+       url('../font/opsly.woff2?38577327') format('woff2'),
+       url('../font/opsly.woff?38577327') format('woff'),
+       url('../font/opsly.ttf?38577327') format('truetype'),
+       url('../font/opsly.svg?38577327#opsly') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'opsly';
-    src: url('../font/opsly.svg?15039333#opsly') format('svg');
+    src: url('../font/opsly.svg?38577327#opsly') format('svg');
   }
 }
 */
@@ -169,6 +169,7 @@
 .icon-auto-scaling:before { content: '\e870'; } /* '' */
 .icon-aws-balancer-2:before { content: '\e871'; } /* '' */
 .icon-full-screen:before { content: '\e872'; } /* '' */
+.icon-exit-fullscreen:before { content: '\e873'; } /* '' */
 .icon-move:before { content: '\f047'; } /* '' */
 .icon-check-empty:before { content: '\f096'; } /* '' */
 .icon-bookmark-empty:before { content: '\f097'; } /* '' */
