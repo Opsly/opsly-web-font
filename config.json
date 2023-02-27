@@ -1472,6 +1472,30 @@
       "search": [
         "exit-fullscreen"
       ]
+    },
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github-circled",
+      "code": 61595,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8669af50382b53c48b9b803692828dd0",
+      "css": "github-circled-alt2",
+      "code": 61526,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "3c2cfcbad5062929d63a249f3858e38b",
+      "css": "github-circled-alt",
+      "code": 61523,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "e7cb72a17f3b21e3576f35c3f0a7639b",
+      "css": "git",
+      "code": 61907,
+      "src": "fontawesome"
     }
   ]
 }
