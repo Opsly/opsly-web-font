@@ -1496,6 +1496,18 @@
       "css": "git",
       "code": 61907,
       "src": "fontawesome"
+    },
+    {
+      "uid": "47ad68217678b39090ac757b873da2e6",
+      "css": "compass",
+      "code": 59508,
+      "src": "iconic"
+    },
+    {
+      "uid": "4bcb3aaa98736be3027bef7c76c55021",
+      "css": "flow-branch",
+      "code": 59509,
+      "src": "entypo"
     }
   ]
 }
