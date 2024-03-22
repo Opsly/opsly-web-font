@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'opsly';
-  src: url('../font/opsly.eot?77329051');
-  src: url('../font/opsly.eot?77329051#iefix') format('embedded-opentype'),
-       url('../font/opsly.woff2?77329051') format('woff2'),
-       url('../font/opsly.woff?77329051') format('woff'),
-       url('../font/opsly.ttf?77329051') format('truetype'),
-       url('../font/opsly.svg?77329051#opsly') format('svg');
+  src: url('../font/opsly.eot?22596923');
+  src: url('../font/opsly.eot?22596923#iefix') format('embedded-opentype'),
+       url('../font/opsly.woff2?22596923') format('woff2'),
+       url('../font/opsly.woff?22596923') format('woff'),
+       url('../font/opsly.ttf?22596923') format('truetype'),
+       url('../font/opsly.svg?22596923#opsly') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'opsly';
-    src: url('../font/opsly.svg?77329051#opsly') format('svg');
+    src: url('../font/opsly.svg?22596923#opsly') format('svg');
   }
 }
 */
@@ -173,6 +173,8 @@
 .icon-compass:before { content: '\e874'; } /* '' */
 .icon-flow-branch:before { content: '\e875'; } /* '' */
 .icon-back-in-time:before { content: '\e876'; } /* '' */
+.icon-management:before { content: '\e877'; } /* '' */
+.icon-login:before { content: '\f02c'; } /* '' */
 .icon-move:before { content: '\f047'; } /* '' */
 .icon-github-circled-alt:before { content: '\f053'; } /* '' */
 .icon-github-circled-alt2:before { content: '\f056'; } /* '' */
